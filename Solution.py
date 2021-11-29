@@ -13,6 +13,7 @@ def solution(pipes):
 	:param pipes: List
 	:return: int
 	"""
+	#hellop
 	if len(pipes) < 3:
 		return 0 
 
